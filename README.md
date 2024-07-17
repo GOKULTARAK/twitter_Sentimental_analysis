@@ -1,1 +1,1 @@
-# twitter_sentimental_analysis
+# Internship_Project
